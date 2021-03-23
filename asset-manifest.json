@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TakeGifs/static/css/main.090e9e63.chunk.css",
+    "main.js": "/TakeGifs/static/js/main.16845c9b.chunk.js",
+    "main.js.map": "/TakeGifs/static/js/main.16845c9b.chunk.js.map",
+    "runtime-main.js": "/TakeGifs/static/js/runtime-main.d4f3ffdf.js",
+    "runtime-main.js.map": "/TakeGifs/static/js/runtime-main.d4f3ffdf.js.map",
+    "static/js/2.c4543412.chunk.js": "/TakeGifs/static/js/2.c4543412.chunk.js",
+    "static/js/2.c4543412.chunk.js.map": "/TakeGifs/static/js/2.c4543412.chunk.js.map",
+    "static/js/3.4dbffd3d.chunk.js": "/TakeGifs/static/js/3.4dbffd3d.chunk.js",
+    "static/js/3.4dbffd3d.chunk.js.map": "/TakeGifs/static/js/3.4dbffd3d.chunk.js.map",
+    "index.html": "/TakeGifs/index.html",
+    "static/css/main.090e9e63.chunk.css.map": "/TakeGifs/static/css/main.090e9e63.chunk.css.map",
+    "static/js/2.c4543412.chunk.js.LICENSE.txt": "/TakeGifs/static/js/2.c4543412.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f3ffdf.js",
+    "static/js/2.c4543412.chunk.js",
+    "static/css/main.090e9e63.chunk.css",
+    "static/js/main.16845c9b.chunk.js"
+  ]
+}
