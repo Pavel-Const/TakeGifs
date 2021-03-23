@@ -1,0 +1,11 @@
+.ImageGroup{
+    border: 1px solid gray;
+    margin-bottom: 20px;
+
+}
+.ImageGrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+    margin: auto;
+}

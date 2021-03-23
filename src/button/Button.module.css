@@ -1,0 +1,40 @@
+.Button{
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    color: black;
+    margin-right: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px
+}
+
+.Button:focus{
+    outline: none;
+}
+
+.Button:active{
+    box-shadow: inset 2px 2px 1px rgba(0,0,0, .3);
+
+}
+
+.Button:disabled{
+    background: #ccc;
+    color: black;
+    cursor: not-allowed;
+}
+
+.load{
+    background: rgb(46, 129, 25);
+    color: #fff;
+}
+
+.clear{
+    background: rgb(212, 20, 65);
+    color: #fff;
+}
+
+.group{
+    background: #2884f6;
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+.ImageItem{
+    object-fit: contain;
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+}
+.ImageTwo{
+    border: 2px solid gray;
+}
